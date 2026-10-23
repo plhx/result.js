@@ -1,0 +1,16 @@
+{
+  "name": "result.js",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rust-like Option and Result for JavaScript",
+  "license": "MIT",
+  "author": "PlasticHeart",
+  "main": "src/result.js",
+  "scripts": {
+    "build": "sh ./build.sh",
+    "test": "sh ./test.sh"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
